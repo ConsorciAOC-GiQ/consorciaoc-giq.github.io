@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Consorci AOC - Unitat de QA 
-description: En aquesta plana trobarem la informació de la unitat de QA del Consorci AOC
+description: En aquesta pàgina trobarem la informació de la unitat de QA del Consorci AOC
 markdown: GFM
 plugins:
   - jemoji

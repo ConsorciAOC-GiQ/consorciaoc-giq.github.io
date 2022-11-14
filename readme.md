@@ -1,4 +1,3 @@
-## Consorci AOC - Unitat de QA
 
 ## 1. Objectius
 

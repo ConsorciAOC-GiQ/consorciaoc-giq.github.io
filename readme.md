@@ -1,8 +1,4 @@
-# Consorci AOC - Unitat de QA
-
-Aquesta es la pàgina de la unitat de QA (Quality Assurance) del Consorci AOC
-
-## Material disponible
+# Material disponible
 
 |Servei|Descripció|
 |---|---|

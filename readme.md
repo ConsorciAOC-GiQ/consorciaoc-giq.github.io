@@ -1,4 +1,4 @@
-## Model de Qualitat del Consorci AOC
+## Consorci AOC - Unitat de QA
 
 ## 1. Objectius
 

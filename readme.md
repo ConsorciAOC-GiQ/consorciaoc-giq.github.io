@@ -1,5 +1,3 @@
-# Consorci AOC - Unitat de QA
-
 # Model de Qualitat del Consorci AOC
 
 ## 1. Objectius
@@ -18,7 +16,7 @@ La informació sobre el servei d'Integració Contínua està disponible [aquí](
 
 ### 2.1. Guies
 
-Amb la intenció de facilitar la incorporació dels projectes al flux CI/CD s'han creat unes guies que es poden accedir a través del següent [enllaç](./guies/README.md)
+Amb la intenció de facilitar la incorporació dels projectes al flux CI/CD s'han creat unes guies que es poden accedir a través del següent [enllaç](https://github.com/ConsorciAOC-GiQ/ModelQA/blob/main//guies/README.md)
 
 
 ### 2.2. Eines
@@ -99,16 +97,14 @@ En cas d'haver de realitzar el desenvolupament mitjançant un proveïdor, es nec
 
 
 
-## Altres enllaços
+## 5. Altres enllaços
 
 |Servei|Descripció|
 |---|---|
-|[**Documentació**][1] | Model QA |
-|[**Jenkins**][2]| Llibreries d'utilitats de Jenkins |
-|[**Gestió de configuració**][3]| Utilitats per a la configuració|
-|[**Procediments interns**][4]| Documentació interna |
+|[**Jenkins**][1]| Llibreries d'utilitats de Jenkins |
+|[**Gestió de configuració**][2]| Utilitats per a la configuració|
+|[**Procediments interns**][3]| Documentació interna |
 
-[1]:https://github.com/ConsorciAOC-GiQ/ModelQA
-[2]:https://github.com/ConsorciAOC-GiQ/JenkinsCAOC
-[3]:https://github.com/ConsorciAOC-GiQ/aoc-qa-agaporni
-[4]:https://github.com/ConsorciAOC-GiQ/Documentacio
+[1]:https://github.com/ConsorciAOC-GiQ/JenkinsCAOC
+[2]:https://github.com/ConsorciAOC-GiQ/aoc-qa-agaporni
+[3]:https://github.com/ConsorciAOC-GiQ/Documentacio

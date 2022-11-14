@@ -13,5 +13,5 @@ Aquesta es la pàgina de la unitat de QA (Quality Assurance) del Consorci AOC
 
 [1]:https://github.com/ConsorciAOC-GiQ/ModelQA
 [2]:https://github.com/ConsorciAOC-GiQ/JenkinsCAOC
-[2]:https://github.com/ConsorciAOC-GiQ/aoc-qa-agaporni
-[2]:https://github.com/ConsorciAOC-GiQ/Documentacio
+[3]:https://github.com/ConsorciAOC-GiQ/aoc-qa-agaporni
+[4]:https://github.com/ConsorciAOC-GiQ/Documentacio

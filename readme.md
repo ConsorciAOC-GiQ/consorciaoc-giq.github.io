@@ -15,7 +15,7 @@ La informació sobre el servei d'Integració Contínua està disponible [aquí](
 
 ### 2.1. Guies
 
-Amb la intenció de facilitar la incorporació dels projectes al flux CI/CD s'han creat unes guies que es poden accedir a través del següent [enllaç](https://github.com/ConsorciAOC-GiQ/ModelQA/blob/main//guies/README.md)
+Amb la intenció de facilitar la incorporació dels projectes al flux CI/CD s'han creat unes guies que es poden accedir a través del següent [enllaç](https://github.com/ConsorciAOC-GiQ/ModelQA/blob/main/guies/guia_alta.md)
 
 
 ### 2.2. Eines
